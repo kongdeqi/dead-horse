@@ -107,7 +107,6 @@ e.shifen.com
 gvt1.com
 apiwz.midukanshu.com
 api.jr.mi.com
-graph.facebook.com
 image.box.xiaomi.com
 niuza.com
 sourl.cn
